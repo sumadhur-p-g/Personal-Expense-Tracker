@@ -6,6 +6,12 @@ A console-based Personal Expense Tracker developed using **Python**. The project
 
 The Personal Expense Tracker helps users manage their daily expenses through a simple command-line interface. Expense details are stored in a text file so that the data can be loaded again when the program is run.
 
+## Project Demo
+
+The following screenshot shows the Personal Expense Tracker running in the terminal.
+
+![Personal Expense Tracker Demo](expense-tracker-demo.png)
+
 ## Features
 
 * Add new expenses
